@@ -1,9 +1,3 @@
-qdbus6 org.kde.klipper /klipper getClipboardHistoryMenu > clipboard.txt
-qdbus6 org.kde.klipper /klipper getClipboardHistoryMenu
-milan@stable:~$ wl-paste
-sudo apt install wl-clipboard
-
-sudo apt install wl-clipboard
 And Sophie was cool about it
 I think the key takeaway here is
 I really appreciate it
@@ -86,57 +80,73 @@ Well, that's where our vacuum cleaner comes in handy. When did we last vacuum?
 Yeah, guilty is charged
 the loundry is piling up
 we fold the clothes to keep them neat. If they're wrinkled, we might need to iron them to
+
+V době, kdy si uvědomili plný rozsah nebezpečí, jimž čelili
 By the time they realized the full extent of the dangers they were facing
+Marie už učinila svůj průlomový objev.
 Marie had already made her groundbreaking discovery
+jejich zdraví se zhoršuje v důsledku neustálého vystavení radiaci
 their health deteriorating from constant exposure to radiation
+Trávili celé dny tím, že železnými tyčemi míchali obrovské kádě s vroucí rudou.
 They would spend entire days stirring massive vats of boiling ore with iron rods,
-The work was backbreaking
-Together they embarked on what would prove to be one of the most arduous scientific journeys ever undertaken
+Toto pozorování, jakkoli se mohlo ostatním zdát banální, v ní vzbudilo zvědavost.
 This observation, trivial as it might have seemed to others, sparked her curiosity.
- Little did anyone know that this determined Polish woman would
+Nikdo netušil, že tato odhodlaná Polka již měsíce zpracovává tuny smolince.
+Little did anyone know that this determined Polish woman would
 had been processing tons of pitch blend for months.
+Marie léta neúnavně pracovala ve své provizorní laboratoři, když narazila na něco mimořádného.
 Marie had been working tirelessly in her makeshift laboratory for years when she stumbled upon something extraordinary.
+Vyřešíme to.
 We'll get that sorted out.
+Jiní raději žijí po svém
 Others prefer to go about their day
+Obě možnosti mi vyhovují.
 Either way is fine with me
+To je taková úleva.
 That's such a relief
+Kdyby tehdy věděla to, co o účincích záření víme dnes, možná by k práci přistupovala jinak.
+uchvácena éterickou modrozelenou září, která vycházela z jejích vzorků radia
 Had she known then what we know now about radiation's effects, she might have approached her work differently.
 mesmerized by the ethereal blue green glow emanating from her radium samples
-Marie knew that were she to succeed
-Yet, she persisted
+Přesvědčit vědeckou obec se však ukázalo být téměř stejně náročné jako samotný objev;
+stála také u zrodu výzkumu radioaktivity – termínu, který sama zavedla. Následné uznání pro ni bylo požehnáním i břemenem.
 However, convincing the scientific community proved nearly as challenging as the discovery itself
 but she had also pioneered research into radioactivity, a term she herself had coined. The recognition that followed was both a blessing and a burden.
+Byla to dřina.
 The work was backbreaking
+Přitom se jim podařilo získat sotva stopové množství té záhadné látky.
 Yet they had barely extracted a trace of the mysterious substance.
+Společně se vydali na cestu, která se ukázala být jednou z nejnáročnějších vědeckých výprav, jaké kdy byly podniknuty.
 Together they embarked on what would prove to be one of the most arduous scientific journeys ever undertaken.
+Marie pracovala neúnavně
 Marie had been working tirelessly
- Little did anyone know that this determined Polish woman would revolutionize science
+Nikdo netušil, že tato odhodlaná Polka způsobí v vědě revoluci.
+Little did anyone know that this determined Polish woman would revolutionize science
+Člověk by si pomyslel, že je to jen další studentka, která se potýká s těžkostmi.
 You would have thought she was just another struggling student
+Kdyby tehdy věděla to, co o účincích záření víme dnes, možná by k práci přistupovala jinak.
+uchvácena éterickou modrozelenou září, která vycházela z jejích vzorků radia
 Had she known then what we know now about radiation's effects, she might have approached her work differently.
 mesmerized by the ethereal blue green glow emanating from her radium samples
+Marie věděla, že kdyby měla uspět
 Marie knew that were she to succeed
+Přesto vytrvala
 Yet, she persisted
+Přesvědčit vědeckou obec se však ukázalo být téměř stejně náročné jako samotný objev.
 However, convincing the scientific community proved nearly as challenging as the discovery itself
+Prostě zničehonic
 Just out of nowhere
+Než si uvědomili plný rozsah
 By the time they realized the full extent
+Prádlo se hromadí.
 The laundry is piling up
+Mnozí kolegové naznačovali, že zásluhy patří Pierrovi, čímž dávali najevo, že mu Marie pouze pomáhala.
 Many colleagues suggested that Pierre deserved the credit, implying that Marie had merely assisted him.
+Než si uvědomili
 By the time they realysed
+Než si uvědomili plný rozsah nebezpečí, jimž čelili, Marie již učinila svůj průlomový objev.
 By the time they realized the full extent of the dangers they were facing, Marie had already made her groundbreaking discovery
-Marie's legacy extends far beyond her scientific achievements.
-Just out of nowhere
-By the time they realized the full extent
-The laundry is piling up
-Many colleagues suggested that Pierre deserved the credit, implying that Marie had merely assisted him.
-By the time they realysed
-By the time they realized the full extent of the dangers they were facing, Marie had already made her groundbreaking discovery
-Marie's legacy extends far beyond her scientific achievements.
-Just out of nowhere
-By the time they realized the full extent
-The laundry is piling up
-Many colleagues suggested that Pierre deserved the credit, implying that Marie had merely assisted him.
-By the time they realysed
-By the time they realized the full extent of the dangers they were facing, Marie had already made her groundbreaking discovery
+Mariin odkaz sahá daleko za hranice jejích vědeckých úspěchů.
 Marie's legacy extends far beyond her scientific achievements.
 ze zvyku
 out of habit
@@ -156,7 +166,6 @@ Působí to ohromujícím dojmem.
 it seems overwhelming
 Nemám ani finanční rezervu pro případ nouze.
 I don't even have an emergency fund.
-17
 zvrátit to
 to turn it around
 Jak se vám podařilo to zvrátit?
