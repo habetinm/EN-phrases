@@ -1,0 +1,224 @@
+qdbus6 org.kde.klipper /klipper getClipboardHistoryMenu > clipboard.txt
+qdbus6 org.kde.klipper /klipper getClipboardHistoryMenu
+milan@stable:~$ wl-paste
+sudo apt install wl-clipboard
+
+sudo apt install wl-clipboard
+And Sophie was cool about it
+I think the key takeaway here is
+I really appreciate it
+don't overthink it
+I didn't want to let my sister down
+I'll swing by her office
+out of town
+My cousin is visiting from
+I'd owe you big time.
+I know weekends are precious.
+weekends are precious.
+I know it's kind of short notice
+I am scheduled to work the closing shift that day
+to work the closing shift that day
+I know this is short notice
+co-orker to cover your shift at work
+it really helps us out
+really helps us out
+I had way too much coffee this morning
+I had way too much coffee
+qdbus6 org.kde.klipper /klipper getClipboardHistoryMenu > clipboard.txt
+We basically had to start from scratch.
+Our team is drowning
+No way.
+do not even me started
+lsb_release -a
+i am usually catching up on all the things i could not finish earlier
+Things just appear out of nowhere and mess up your whole schedule,
+That is like 50 bucks a month on stuff I barely notice
+i have been ordering way too much
+I spent 10$ on what felt like nothing
+I keep worrying that I'm going to mess something up
+if anything, it's been getting worse
+they make it harder for our brain to wind down
+can you describe what that feels like for you
+i am constantly faling short
+when we loose interest in activities that used bring us joy
+Say you want to make sure you're making the right choice
+qdbus6 org.kde.klipper /klipper getClipboardHistoryMenu > clipboard.txt
+I'll let you get back to it
+I'll let you get back to it, but don't work too late tonight.
+you have earned it
+t'll look great on my resume, too.
+it is also kind of exciting in a wired way
+i wish i could
+And guess who had to deal with all the changes?
+hang in there at the end.
+I had a colleague tell me that once when I was dealing with a difficult client, and it actually made me feel better
+So, you rose to the occasion.
+don't even get me started 
+i would probably have quick by now
+the thought has crossed my mind
+ I'd probably have quit by
+it has been pretty steep
+Guilty as charged
+how they handled admitting mistakes.
+And having a schedule will definitely help us stay on top of things
+I couldn't agree more.
+I couldn't agree more. And having a schedule will definitely help us stay on top of things. No more letting the chores pile up.
+We could pick a weekend and just go all out.
+Well, that's where our vacuum cleaner comes in handy. When did we last vacuum?
+ I actually don't mind doing that.
+Yeah, guilty is charged
+the loundry is piling up
+we fold the clothes to keep them neat. If they're wrinkled, we might need to iron them to
+We'll get that sorted out.
+My nephew was visiting and I think he might have flushed something he shouldn't have.
+the bathroom sink has been driving me crazy
+Sometimes these clogs are just too stubborn for a regular plunger.
+I'll take care of that.
+ I haven't been keeping up with my share of the chores
+Guilty as charged
+how they handled admitting mistakes.
+And having a schedule will definitely help us stay on top of things
+I couldn't agree more.
+I couldn't agree more. And having a schedule will definitely help us stay on top of things. No more letting the chores pile up.
+We could pick a weekend and just go all out.
+Well, that's where our vacuum cleaner comes in handy. When did we last vacuum?
+ I actually don't mind doing that.
+Yeah, guilty is charged
+the loundry is piling up
+we fold the clothes to keep them neat. If they're wrinkled, we might need to iron them to
+By the time they realized the full extent of the dangers they were facing
+Marie had already made her groundbreaking discovery
+their health deteriorating from constant exposure to radiation
+They would spend entire days stirring massive vats of boiling ore with iron rods,
+The work was backbreaking
+Together they embarked on what would prove to be one of the most arduous scientific journeys ever undertaken
+This observation, trivial as it might have seemed to others, sparked her curiosity.
+ Little did anyone know that this determined Polish woman would
+had been processing tons of pitch blend for months.
+Marie had been working tirelessly in her makeshift laboratory for years when she stumbled upon something extraordinary.
+We'll get that sorted out.
+Others prefer to go about their day
+Either way is fine with me
+That's such a relief
+Had she known then what we know now about radiation's effects, she might have approached her work differently.
+mesmerized by the ethereal blue green glow emanating from her radium samples
+Marie knew that were she to succeed
+Yet, she persisted
+However, convincing the scientific community proved nearly as challenging as the discovery itself
+but she had also pioneered research into radioactivity, a term she herself had coined. The recognition that followed was both a blessing and a burden.
+The work was backbreaking
+Yet they had barely extracted a trace of the mysterious substance.
+Together they embarked on what would prove to be one of the most arduous scientific journeys ever undertaken.
+Marie had been working tirelessly
+ Little did anyone know that this determined Polish woman would revolutionize science
+You would have thought she was just another struggling student
+Had she known then what we know now about radiation's effects, she might have approached her work differently.
+mesmerized by the ethereal blue green glow emanating from her radium samples
+Marie knew that were she to succeed
+Yet, she persisted
+However, convincing the scientific community proved nearly as challenging as the discovery itself
+Just out of nowhere
+By the time they realized the full extent
+The laundry is piling up
+Many colleagues suggested that Pierre deserved the credit, implying that Marie had merely assisted him.
+By the time they realysed
+By the time they realized the full extent of the dangers they were facing, Marie had already made her groundbreaking discovery
+Marie's legacy extends far beyond her scientific achievements.
+Just out of nowhere
+By the time they realized the full extent
+The laundry is piling up
+Many colleagues suggested that Pierre deserved the credit, implying that Marie had merely assisted him.
+By the time they realysed
+By the time they realized the full extent of the dangers they were facing, Marie had already made her groundbreaking discovery
+Marie's legacy extends far beyond her scientific achievements.
+Just out of nowhere
+By the time they realized the full extent
+The laundry is piling up
+Many colleagues suggested that Pierre deserved the credit, implying that Marie had merely assisted him.
+By the time they realysed
+By the time they realized the full extent of the dangers they were facing, Marie had already made her groundbreaking discovery
+Marie's legacy extends far beyond her scientific achievements.
+ze zvyku
+out of habit
+I ve své dny volna se ze zvyku budím brzy.
+Even on my days off, I find myself waking up early out of habit. 
+Do příštího semestru budu mít za sebou dva roky skloubení práce a studia.
+By next semester, I'll have been balancing work and studies for two years
+Ušetří mi to postávání před skříní v polospánku, kdy se snažím vymyslet, co si obléknout.
+It saves me from standing in front of my closet half asleep trying to figure out what to wear.
+Pak můžete začít budovat své úspory a skutečně žít z méně peněz, než kolik vyděláte – namísto toho, aby to bylo naopak.
+Then you can start building up your savings and actually living on less than you earn instead of the other way around.
+až příliš mnoho
+way too much
+Teda, asi utrácím až moc za věci, které nepotřebuju.
+I mean, I'm probably spending way too much on stuff I don't need
+Působí to ohromujícím dojmem.
+it seems overwhelming
+Nemám ani finanční rezervu pro případ nouze.
+I don't even have an emergency fund.
+17
+zvrátit to
+to turn it around
+Jak se vám podařilo to zvrátit?
+How did you manage to turn it around?
+Před pár lety jsem byl v podobné situaci.
+I used to be in a similar situation a few years ago.
+Ale nějak jsem na konci měsíce vždycky bez peněz.
+But somehow I'm always broke by the end of the month.
+ale další část mě prostě chce, aby věci zůstaly stejné
+but another part of me just wants things to stay the same
+you need to trust your gut
+see if you can actually picture yourself living there.
+Don't rush this decision
+It takes courage to acknowledge these feelings.
+Nemám moc času se v koupelně zdržovat.
+I don't really have time to linger in the bathroom.
+Dělám to už 3 roky.
+I've been doing this for 3 years now,
+cut back on screen time
+23
+omezit čas strávený u obrazovky
+V devíti případech z deseti si ke snídani dám kávu.
+nine times out of 10, I'll have coffee with breakfast.
+Většinou odcházím už v sedm.
+more often than not, I'm out the door by 7:00. 
+Hodím na sebe nějaké oblečení.
+I throw on some clothes.
+Hodím na sebe oblečení.
+Mysl mi těká.
+My mind wanders.
+Ale „hit or miss“ je spíše hovorové.
+But hit or miss is more colloquial
+Upřímně, je to sázka do loterie.
+It's hit or miss, honestly
+Jídlo v univerzitní menze je slušné.
+The university cafeteria food is decent
+Vystihuje to bezmyšlenkovité prohlížení, které všichni děláme.
+It captures that mindless browsing we all do
+procházení telefonu
+scrolling through my phone
+vyřídit pochůzky
+run errands
+Možná si vyřídím nějaké záležitosti.
+I might run some errands
+Rychle si připravím sendvič nebo nějaký narychlo spíchnu.
+I quickly make a sandwich or throw together a sandwich
+Rychle připravím sendvič.
+I'll throw together a quick sandwich
+Jakmile píchnu odchod, bývám obvykle dost vyčerpaný.
+once I clock out, I'm usually pretty exhausted
+Odpoledne se to teprve pořádně rozjede.
+afternoons are when things really pick up
+ze zvyku
+out of habit
+I find myself waking up early out of habit
+Snažím se co nejvíce držet své rutiny.
+I try to stick to my routine as much as possible
+Dozvídám se nějaké novinky
+I catch up on some news
+Než dorazím do kanceláře
+By the time I arrive at the office
+Budu mít za sebou vyvažování.
+I'll have been balancing.
+V deset hodin už jsem k ničemu.
+I'm useless by 10:00
