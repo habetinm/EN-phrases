@@ -296,3 +296,31 @@ Your schedule is all over the place with those rotating shifts.
 Musím tento týden někam vměstnat návštěvu zubaře.
 I need to squeeze in a dentist appointment this week
 Snažím se tu a tam vměstnat nějaké cvičení.
+qdbus6 org.kde.klipper /klipper org.kde.klipper.klipper.clearClipboardHistory
+Stává se ti někdy, že o víkendu prostě úplně odpadneš, abys dohnal spánek?
+Do you ever just crash on the weekends to catch up on sleep?
+Snažím se o sebe lépe pečovat.
+I've been trying to take better care of myself.
+Jsi odolnější, než si myslíš.
+You're tougher than you think
+Ne vždy to tak dopadne.
+it doesn't always work out that way.
+V kolik hodin obvykle končíš den, když zrovna nepracuješ?
+What time do you usually call it a night when you're not working?
+Usnul jsem jako špalek.
+I'm out like a light
+Někdy usnu jako špalek, sotva se hlavou dotknu polštáře.
+Some nights I'm out like a light the moment my head hits the pillow
+do konce semestru
+Začínám usínat.
+I start dozing off.
+Řekneš si, že jen projdeš nějaké poznámky, a než se naděješ, probouzíš se ve dvě ráno s notebookem na hrudi.
+You tell yourself you'll just review some notes and next thing you know, you're waking up at 2:00 a.m. with your laptop on your chest.
+V době, kdy
+By the time
+Než tam dorazím, bývá obvykle kolem osmé hodiny večer.
+By the time I get there, it's usually around 8:00 p.m.
+Konečně končím s výukou.
+I finally wrap up with classes
+Znamená to těžce, tak trochu neopatrně dosednout.
+It means to sit down heavily, kind of carelessly.
