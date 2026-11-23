@@ -3,3 +3,4 @@ qdbus6 org.kde.klipper /klipper getClipboardHistoryMenu >> clipboard.txt
 git add .
 git commit -m "New phrases"
 git push
+qdbus6 org.kde.klipper /klipper org.kde.klipper.klipper.clearClipboardHistory
